@@ -4,7 +4,7 @@ Description
 
 Installation
 Clone this repository locally and run the game.py file:
-  git clone https://github.com/meiorlvgang/Space-Invaders.git
+  git clone https://github.com/meiorlvgang/SpaceInvaders.git
   cd Space-Invaders
   python main.py
 
